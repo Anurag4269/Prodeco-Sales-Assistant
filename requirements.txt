@@ -1,0 +1,5 @@
+groq
+faiss-cpu
+sentence-transformers
+langtrace-python-sdk
+opentelemetry-exporter-otlp
